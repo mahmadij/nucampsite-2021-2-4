@@ -58,3 +58,13 @@ a:hover {
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5); }
+
+#reserveModal .modal-header {
+  color: white;
+  font-family: "Lobster", cursive;
+  background-color: #17A2B8; }
+
+#loginModal .modal-header {
+  color: white;
+  font-family: "Lobster", cursive;
+  background-color: #901CAD; }
